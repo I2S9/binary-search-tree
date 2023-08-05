@@ -2,7 +2,7 @@
 
 Ceci est un projet réalisé en groupe avec mes camarades respectivement Muhammad Zahab Khalid et Kevin Chou dans le cadre de la spécialité Numérique et Sciences de l'Informatique.
 
-Ce projet vise à créer un arbre binaire de recherche par l'intermédiaire du module Tkinter de Python visant à développer des interfaces graphiques, en utilisant la programmation orientée objet (POO) et la récursivité. 
+Ce projet consiste à créer un arbre binaire de recherche par l'intermédiaire du module Tkinter de Python visant à développer des interfaces graphiques, en utilisant la programmation orientée objet (POO) et la récursivité. 
 
 # Fonctionnalités
 
