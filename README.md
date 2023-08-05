@@ -10,4 +10,4 @@ Nous avons implémenté un arbre binaire de recherche qui se créé au fur et à
 
 L'utilisateur peut choisir d'entrer les valeurs de chaque noeud via les périphériques (clavier) ou grâce à la souris via une interface graphique annexe sous forme de clavier virtuel.
 
-Nous avons également développé la visualisation de l'ensemble des parcours de l'arbre (parcours en profondeur préfixe, infixe et suffixe) ainsi que la possibilité de rechercher une clé/valeur d'un noeud et de visualiser le parcours effectué par l'algorithme.
+Nous avons également développé la visualisation de l'ensemble des parcours de l'arbre (parcours en profondeur préfixe, infixe et suffixe) ainsi que la possibilité de rechercher la clé/valeur d'un noeud et de visualiser le parcours effectué par l'algorithme.
